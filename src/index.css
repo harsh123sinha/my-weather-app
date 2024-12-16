@@ -1,0 +1,12 @@
+*{
+    margin :0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.app{
+    min-height: 100vh;
+    display:grid;
+    background-image: url("C:\Users\91933\Desktop\test\test\src\assets\back.png");
+    object-fit: "cover",
+    
+}
